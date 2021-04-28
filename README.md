@@ -68,4 +68,5 @@ Cost of Meal + Service Charge + Tax = 556.65
 Total Cost: 556.65
 The Application Works!
 
+A more simple way you can run the file is to from where you have the code in IDLE roll to the top menu and roll over "RUN" then click "RUN Module" This will start the application as well.
 
