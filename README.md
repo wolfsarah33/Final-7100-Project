@@ -12,11 +12,14 @@ Step 3:Click Command prompt and this should open up a command screen
 Step 4: It should look like the image below
  
 This is the environment of where the code will be ran.
-The GUI is Tkinter. The API used to make the application is
+The GUI is Tkinter. 
 b)Resources needed
 Step 6: Got to windows start menu and search Python IDLE (Python 3.9 comes with this text editor)
 Step 7: Click on IDLE (Python 3.9) it should look similar to the image be 
 Step 8: Copy the below COPY and PASTE the code that is located in "Main.py" in to your IDLE text editor (including code here too)
+
+[RMcode.txt](https://github.com/wolfsarah33/Final-7100-Project/files/6394797/RMcode.txt)
+
 
 Step 9: The IDLE document should like the below image
  
