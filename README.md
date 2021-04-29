@@ -69,3 +69,4 @@ The Application Works!
 
 A more simple way you can run the file is to from where you have the code in IDLE roll to the top menu and roll over "RUN" then click "RUN Module" This will start the application as well.
 
+Another Simple way is to just click on the "main.py" file
